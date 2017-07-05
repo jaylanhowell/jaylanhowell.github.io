@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Best Website Ever</title>
+  <style>
+     body {
+    background: #f1f0d1;
+    font-size: 18px;
+    font-family: Verdana, Arial, sans-serif;
+    overflow: auto;
+  }
+  header {
+    width: 96%
+    text-align: center
+    min-height: 125px;
+    padding: 5px;
+  }
+  h1, h2, h3 {
+    color: #878e63;
+    text-align: center;
+  }
+  p {
+    padding: 5%
+    color: #878e63;
+  }
+  img {
+    text-align: center;
+    max-width: 100;
+    height: auto;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 50px;
+  }
+  nav ul li {
+    float: left;
+    border: 1px solid #878e63;
+    width: 15%;
+  }
+  nav ul li a {
+    background: #f1f0d1;
+    display: inline;
+    padding: 5% 12%;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: center;
+    }
+    footer {
+      color: #878e63;
+    }
+    footer li {
+      list-style-type: none;
+      text-align: center;
+      display: inline;
+      
+    }
+  </style>
+ </head>
+  <body>
+    <header>
+      <a href="#"><img src="http://www.w3newbie.com/wp-content/uploads/massagelogo.png"</a>
+    </header
+     <nav>
+    <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Contact</a></li>
+    </ul>
+    </nav>
+    <div class="banner"><img src="http://www.w3newbie.com/wp-content/uploads/massagebanner.png"</div>
+   <h1>Welcome to my Website!</h1>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+    <h2>What We Do</h2>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+    <h2>Where We Are</h2>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+    <div class="section">
+      <h3>Private Massage Area</h3>
+      <img src="http://www.w3newbie.com/wp-content/uploads/private.png"
+    </div>
+    <div class="section">
+      <h3>Sauna Room</h3>
+      <img src="http://www.w3newbie.com/wp-content/uploads/sauna-steam.png"
+    </div>
+    <div class="section">
+      <h3>Our Retreat</h3>
+      <img src="http://www.w3newbie.com/wp-content/uploads/retreat.png"
+    </div>
+    
+    <footer>&copy Copyright, 2017
+    <div class="section">
+      <ul>
+        <li><a href="https://www.twitter.com"><img src="http://www.w3newbie.com/wp-content/uploads/twitter1.png"/></a></li>
+         <li><a href="https://www.twitter.com"><img src="http://www.w3newbie.com/wp-content/uploads/facebook1.png"/></a></li>
+          <li><a href="https://www.googleplus.com"><img src="http://www.w3newbie.com/wp-content/uploads/googleplus.png"/></a></li>
+      </ul>
+    </div>
+    </footer>
+  </body>
+</html>
