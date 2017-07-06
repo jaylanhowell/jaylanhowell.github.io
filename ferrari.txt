@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<head>
+<title>Best Cars In The World</title>
+<style>
+html {
+background-color: black;
+}
+body {
+font-family: Arial, sans-serif;
+font-size: 16px;
+line-height: 20px;
+}
+img {
+width: 100%;
+}
+h1 {
+text-align: center;
+padding-top: 20px;
+text-transform: uppercase;
+color: #ffdd8e;
+}
+#main {
+background-color: white;
+padding: 0 16px 16px;
+padding-top: 10px;
+}
+#second {
+background-color: white;
+padding: 0 16px 16px;
+padding-top: 10px;
+}
+h2 {
+color: red;
+text-transform: uppercase;
+font-weight: bold;
+}
+footer {
+color: #ffffff;
+text-align: center;
+}
+#menu {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+#items {
+float: left;
+text-decoration: none;
+}
+a:link, a:visited {
+display: block;
+width: 120px;
+font-weight: bold;
+color: white;
+background-color: black;
+text-align: center;
+padding: 4px;
+text-decoration: none;
+text-transform: uppercase;
+}
+a:hover, a:active {
+color: #ff5c5c;
+}
+#hyperlink {
+display: inline;
+font-weight: 100;
+color: blue;
+background-color: white;
+padding: 0;
+text-decoration: underline;
+text-transform: none;
+}
+
+</style>
+</head>
+<body>
+<div>
+<h1>Ferraris</h1>
+<p>
+<ul id="menu">
+<li id="items"><a href="index.html">Home</a></li>
+<li id="items"><a href="bugatti.html">Bugatti</a></li>
+<li id="items"><a href="ferrari.html">Ferrari</a></li>
+</ul>
+</p>
+<img src="http://images.mysnapshotcentral.com/images/carupdatejan14/2014_ferrari_laferrari-2560x1600.jpg">
+</div>
+<div id="main"
+<h2>ABOUT THE FERRARI</h2>
+<p>Ferrari is an Italian sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1939 as Auto Avio Costruzioni, the company built its first car in 1940. However the company's inception as an auto manufacturer is usually recognized in 1947, when the first Ferrari-badged car was completed.
+
+In 2014, Ferrari was rated the world's most powerful brand by Brand Finance. In May 2012 the 1962 Ferrari 250 GTO became the most expensive car in history, selling in a private transaction for US$38.1 million to American communications magnate Craig McCaw.</p>
+
+</div>
+<div>
+<img src="http://4.bp.blogspot.com/-DKUxPqYrvL0/VSaH54KV5YI/AAAAAAAAEA0/psMKgLPuAuc/s1600/ENZO_FERRARI_1.jpg">
+</div>
+<div>
+<h2>Ferrari's Most Expensive Car: 250 GTO</h2>
+<p>The 250 GTO model was the pinnacle of development of the 250 GT series in competition form, whilst still remaining a road car. It made its public debut at the annual pre-season Ferrari press conference in January 1962, and was the only front engine model on display, with its monoposto and sports racing counterparts all having a mid-engine configuration.</p>
+<img src="http://auto.ferrari.com/en_US/sports-cars-models/past-models/250-gto/#collapse3_8676">
+</div>
+<footer>
+&copy; Copyright 2017
+</footer>
+</body>

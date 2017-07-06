@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<head>
+<title>Best Cars In The World</title>
+<style>
+html {
+background-color: black;
+}
+body {
+font-family: Arial, sans-serif;
+font-size: 16px;
+line-height: 20px;
+}
+img {
+width: 100%;
+}
+h1 {
+text-align: center;
+padding-top: 20px;
+text-transform: uppercase;
+color: #ffdd8e;
+}
+#main {
+background-color: white;
+padding: 0 16px 16px;
+padding-top: 10px;
+}
+p {
+background-color: white;
+padding: 0 16px 16px;
+padding-top: 10px;
+}
+h2 {
+color: red;
+text-transform: uppercase;
+font-weight: bold;
+}
+footer {
+color: #ffffff;
+text-align: center;
+}
+#menu {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+#items {
+float: left;
+text-decoration: none;
+}
+a:link, a:visited {
+display: block;
+width: 120px;
+font-weight: bold;
+color: white;
+background-color: black;
+text-align: center;
+padding: 4px;
+text-decoration: none;
+text-transform: uppercase;
+}
+a:hover, a:active {
+color: #ff5c5c;
+}
+#hyperlink {
+display: inline;
+font-weight: 100;
+color: blue;
+background-color: white;
+padding: 0;
+text-decoration: underline;
+text-transform: none;
+}
+
+</style>
+</head>
+<body>
+<div>
+<h1>Bugattis</h1>
+<p>
+<ul id="menu">
+<li id="items"><a href="index.html">Home</a></li>
+<li id="items"><a href="bugatti.html">Bugatti</a></li>
+<li id="items"><a href="ferrari.html">Ferrari</a></li>
+</ul>
+</p>
+<img src="http://www.addcovers.com/covers/9863eloodg874ln.jpg">
+</div>
+<div>
+<h2>ABOUT THE BUGATTI</h2>
+<p>Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then German city of Molsheim, Alsace by Italian-born Ettore Bugatti. Bugatti cars were known for their design beauty (Ettore Bugatti was from a family of artists and considered himself to be both an artist and constructor and for their many race victories. Famous Bugattis include the Type 35 Grand Prix cars, the Type 41 "Royale", the Type 57 "Atlantic" and the Type 55 sports car.
+In order to achieve a 25 percent increase in performance compared to its predecessor, almost every single part of the engine was looked at and newly developed. This feat of engineering resulted in the W16 engine of the Bugatti Chiron1 being able to develop an unbelievable 1,103 kW (1,500 bps) from its 8 litres of displacement. The engine reaches its maximum torque of 1,600 Nm thanks to the turbocharger which Bugatti actually even developed itself. The 4 turbochargers are now double-powered and already guarantee maximum torque at 2,000 rpm, and the torque is maintained at this level all the way up to 6,000 rpm. The result is unbelievable acceleration which only comes to an end in the twilight zone somewhere beyond the 400 km/h mark.</p>
+
+<p><a id="hyperlink" href="http://www.bugatti.com/chiron/" target="_blank">Click here</a> to find out more!</p>
+</div>
+<footer>
+&copy; Copyright 2017
+</footer>
+</body>
