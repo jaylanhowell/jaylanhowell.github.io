@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<head>
+<title>Landing Page</title>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+html, body {
+margin: 0;
+pading: 0;
+height: 100%;
+width: 100%;
+}
+.intro {
+height: 100%;
+width: 100%;
+margin: auto;
+background: url(https://static.pexels.com/photos/26206/pexels-photo.jpg) no-repeat 50% 50%; 
+display: table;
+top: 0;
+background-size: cover;
+}
+.intro .inner {
+display: table-cell;
+vertical-align: middle;
+width: 100%;
+max-width: none;
+}
+.content {
+max-width: 500px;
+margin: 0 auto;
+text-align: center;
+}
+.content h1 {
+font-family: 'Raleway', sans-serif;
+color: #f9f3f4;
+font-size: 60px;
+text-shadow: 0px 0px 300px #000;
+}
+.button {
+border-radius: 9px;
+font-family: 'Oswald', sans-serif;
+color: #036a81;
+font-size: 135%;
+padding: 10px 20px;
+border: solid #036a81 3px; 
+text-transform: uppercase;
+text-decoration: none;
+}
+.button:hover {
+color: #fff;
+border: solid #fff 3px;
+}
+p {
+font-size: 160%;
+line-height: 210%;
+text-align: justify;
+margin: 3%;
+font-family: sans-serif;
+}
+@media screen and (max-width: 768px;) {
+.content h1 {
+font-size: 200%;
+ }
+.button {
+font-size: 110%;
+padding: 7px 15px;
+ }
+p {
+font-size: 110%;
+line-height: 160%;
+ }
+}
+</style>
+</head>
+<body>
+<section class="intro">
+<div class="inner">
+<div class="content">
+<h1>Breathe Easy</h1>
+<a class="button" href="index3.html">Get Started</a>
+</div>
+</div>
+</section>
+<p>Tristique urna. Vitae vestibulum eu molestie amet congue duis. Ultricies aliquam elementum eleifend quam at sociosqu Nascetur. Vivamus lacinia. Hymenaeos cum scelerisque commodo diam, montes posuere mattis quisque dolor in maecenas nunc. Cubilia diam purus volutpat curabitur, pharetra luctus class, fames hac eros. Non ullamcorper, aliquet pharetra montes, hendrerit quisque mi, sociosqu lorem. Quis faucibus. Venenatis fringilla massa augue montes nonummy eleifend ultrices elit iaculis suscipit penatibus purus laoreet odio. Quis velit. Nec orci in blandit cursus magnis tristique, phasellus massa inceptos commodo lobortis nam conubia dui. Fermentum. Orci hac. Ut turpis donec ultrices at suscipit consectetuer orci lectus. Amet.</p>
+<p>Tristique urna. Vitae vestibulum eu molestie amet congue duis. Ultricies aliquam elementum eleifend quam at sociosqu Nascetur. Vivamus lacinia. Hymenaeos cum scelerisque commodo diam, montes posuere mattis quisque dolor in maecenas nunc. Cubilia diam purus volutpat curabitur, pharetra luctus class, fames hac eros. Non ullamcorper, aliquet pharetra montes, hendrerit quisque mi, sociosqu lorem. Quis faucibus. Venenatis fringilla massa augue montes nonummy eleifend ultrices elit iaculis suscipit penatibus purus laoreet odio. Quis velit. Nec orci in blandit cursus magnis tristique, phasellus massa inceptos commodo lobortis nam conubia dui. Fermentum. Orci hac. Ut turpis donec ultrices at suscipit consectetuer orci lectus. Amet.</p>
+<p>Tristique urna. Vitae vestibulum eu molestie amet congue duis. Ultricies aliquam elementum eleifend quam at sociosqu Nascetur. Vivamus lacinia. Hymenaeos cum scelerisque commodo diam, montes posuere mattis quisque dolor in maecenas nunc. Cubilia diam purus volutpat curabitur, pharetra luctus class, fames hac eros. Non ullamcorper, aliquet pharetra montes, hendrerit quisque mi, sociosqu lorem. Quis faucibus. Venenatis fringilla massa augue montes nonummy eleifend ultrices elit iaculis suscipit penatibus purus laoreet odio. Quis velit. Nec orci in blandit cursus magnis tristique, phasellus massa inceptos commodo lobortis nam conubia dui. Fermentum. Orci hac. Ut turpis donec ultrices at suscipit consectetuer orci lectus. Amet.</p>
+</body>
