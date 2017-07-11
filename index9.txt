@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<head>
+<title>Canvas</title>
+<style>
+canvas {
+border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<canvas></canvas>
+<script src="canvas.js"></script>
+</body>
