@@ -115,12 +115,10 @@ max-width: 100%;
 <nav>
 <h1>Jaylan Howell</h1>
 <ul id="nav">
-<li><a href="index.html">HOME</a></li>
-<li><a href="about.html">ABOUT</a></li>
-
-<li><a href="portfolio.html">PORTFOLIO</a></li>
-
-<li><a href="contact.html">CONTACT</a></li>
+<li><a href="jaylanhowell.github.io/index.html">HOME</a></li>
+<li><a href="jaylanhowell.github.io/about.html">ABOUT</a></li>
+<li><a href="jaylanhowell.github.io/portfolio.html">PORTFOLIO</a></li>
+<li><a href="jaylanhowell.github.io/contact.html">CONTACT</a></li>
 </ul>
 </nav>
 </header>
