@@ -114,7 +114,7 @@ margin-right: 50px;
 <nav>
 <h1>Jaylan Howell</h1>
 <ul id="nav">
-<li><a href="index7.html">HOME</a></li>
+<li><a href="index.html">HOME</a></li>
 <li><a href="portfolio.html">PORTFOLIO</a></li>
 <li><a href="about.html">ABOUT</a></li>
 <li><a href="contact.html">CONTACT</a></li>
@@ -130,39 +130,3 @@ margin-right: 50px;
 </div>
 <a name="about">
 <div class="clearfix"></div>
-<section class="left-col">
-<h2>About Me</h2>
-<p>Hello! My name is Jaylan Howell and this is my profile page. I recently got into coding with HTML, CSS, and JavaScript and so far I love it. I joined this group called TeenTech which teaches coding and it allowed me gain the knowledge about coding. Upon learning the fudamentals of HTML5, I
-decided to test and I recieved my certification for Microsoft! So I'm going to show some websites that I have made and practiced on before I got my certification. Legend says thhat Jaylan continues to make websites to this day. =)</p>
-</section>
-<div class="clearfix"></div>
-<a name="port">
-<h2>My Portfolio</h2>
-<p>Check out these websites below for my work!</p>
-<h2>Photography Website</p>
-<section class="one-third-port">
-<a href="jaylanhowell.github.io/index3.html" target="_blank"><img src="Capture.PNG"></a>
-</section>
-<h2>Massage Website</p>
-<section class="one-third-port">
-<a href="jaylanhowell.github.io/index4.html" target="_blank"><img src="Capture4.PNG"></a>
-</section>
-<h2>Gym Website</p>
-<section class="one-third-port">
-<a href="jaylanhowell.github.io/index2.html" target="_blank"><img src="Capture5.PNG"></a>
-</section>
-<h2>Design Website</p>
-<section class="one-third-port">
-<a href="jaylanhowell.github.io/design.html" target="_blank"><img src="Capture2.PNG"></a>
-</section>
-<div class="clearfix"></div>
-<h2>Contact Me</h2>
-<section class="contact">
-<p>Jaylan Howell <br class="break"> <a href="mailto:jaylanhowell0927@gmail.com">jaylanhowell0927@gmail.com</a><br class="break"> 813-693-6047</p>
-<p><br class="break"> Tampa <br class="break"> Florida <br class="break"> 33637</p>
-</section>
-<footer>
-Copyright &copy; 2017
-</footer>
-
-</body>
