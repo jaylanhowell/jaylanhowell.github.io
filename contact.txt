@@ -81,9 +81,6 @@ color: #2C2C2C;
 .social i:hover {
 color: #606060;
 }
-footer.second {
-background-color: #2C2C2C;
-}
 footer.second p {
 color: white;
 text-align: center;
@@ -137,8 +134,9 @@ display: inline;
 <p>Jaylan Howell <br class="break"> <a href="mailto:jaylanhowell0927@gmail.com">jaylanhowell0927@gmail.com</a><br class="break"> 813-693-6047</p>
 <p><br class="break"> Tampa <br class="break"> Florida <br class="break"> 33637</p>
 </section>
-<footer>
-Copyright &copy; 2017
+<footer class="second">
+<p>Copyright Jaylan Howell, 2017</p>
 </footer>
+</body>
 
 </body>
