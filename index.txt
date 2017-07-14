@@ -81,9 +81,6 @@ color: #2C2C2C;
 .social i:hover {
 color: #606060;
 }
-footer.second {
-background-color: #2C2C2C;
-}
 footer.second p {
 color: white;
 text-align: center;
@@ -128,8 +125,9 @@ margin-right: 50px;
 <p>I have experience in HTML, CSS, and JavaScript, which I've passed when I got my Microsoft certification for Web Development.</p>
 <p>You can find all my work in my Portfolio section. Hope you enjoy my page!!</p>
 </div>
-<footer>
-Copyright &copy; 2017
+<footer class="second">
+<p>Copyright Jaylan Howell, 2017</p>
 </footer>
+</body>
 
 </body>
