@@ -84,9 +84,6 @@ color: #2C2C2C;
 .social i:hover {
 color: #606060;
 }
-footer.second {
-background-color: #2C2C2C;
-}
 footer.second p {
 color: white;
 text-align: center;
@@ -98,6 +95,7 @@ margin: 26px 0 0 26px;
  }
 footer {
 color: white;
+text-align: center;
 }
 .contact p {
 text-align: center;
@@ -138,8 +136,9 @@ So I'm going to show some websites that I have made and practiced on before I go
 Legend says that Jaylan continues to make websites to this day. =)</p>
 </section>
 
-<footer>
-Copyright &copy; 2017
+<footer class="second">
+<p>Copyright Jaylan Howell, 2017</p>
 </footer>
+</body>
 
 </body>
