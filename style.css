@@ -5,6 +5,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 body {
 margin: 0;
 }
