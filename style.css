@@ -103,3 +103,52 @@ text-decoration: none;
 img {
 margin-right: 50px;
 }
+  @media screen and (max-width: 768px) {
+#menu-icon {
+margin: 26px 0 0 26px;
+ }
+nav ul, nav:active ul {
+padding: 8px 0;
+left: 23px;
+top: 34px;
+width: 50%;
+ }
+.inner {
+font-size: 120%;
+ }
+.content h1 {
+font-size: 100%;
+ }
+p {
+font-size: 120%;
+ }
+h2 {
+font-size: 160%;
+ }
+.left-col{
+width: 96%;
+margin: 0 0 3% 0;
+padding: 0 2%;
+ }
+.sidebar {
+width: 96%;
+margin: 0 auto;
+ }
+img {
+padding: 2%;
+ }
+.one-third-port {
+width: 96%;
+margin: 0 auto;
+padding: 0;
+ }
+.break {
+display: block;
+ }
+.parallax {
+display: none;
+ }
+.social i {
+font-size: 170%;
+ } 
+}
