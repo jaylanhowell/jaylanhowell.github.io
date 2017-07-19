@@ -136,6 +136,8 @@ margin: 0 auto;
  }
 img {
 padding: 2%;
+  width: 400px;
+  height: 400px;
  }
 .one-third-port {
 width: 96%;
