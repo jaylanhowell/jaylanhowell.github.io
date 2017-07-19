@@ -85,24 +85,6 @@ color: white;
 text-align: center;
 padding: 5%;
 }
-@media screen and (max-width: 768px) {
-#menu-icon {
-margin: 26px 0 0 26px;
- }
-footer {
-color: white;
-text-align: center;
-}
-.contact p {
-text-align: center;
-letter-spacing: 5px;
-padding-left: 5%;
-}
-.contact a {
-text-decoration: none;
-img {
-margin-right: 50px;
-}
   @media screen and (max-width: 768px) {
 #menu-icon {
 margin: 26px 0 0 26px;
